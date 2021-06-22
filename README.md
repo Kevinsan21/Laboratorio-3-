@@ -13,6 +13,7 @@
 
 # 2.MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/84421020/122846052-a9dd2000-d2ca-11eb-8c73-7a07f31bcc23.png)
 
 # 3.EXPLICACION DE PROCEDIMIENTO 
 ![](https://github.com/Kevinsan21/imagenes-666/blob/main/Informe_circuitos_4_1.jpg)
