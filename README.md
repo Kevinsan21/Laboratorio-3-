@@ -24,7 +24,7 @@
 # 4.RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
 ![](https://github.com/Kevinsan21/imagenes-666/blob/main/Calculo%20de%20error.jpg)
 # 5.VIDEO
-
+https://www.youtube.com/watch?v=A-uZ_gVbkSA
 # 6.CONCLUSIONES 
 .Se ha logrado conlcuir que mediante la simulacion de corriente se pudo obtener el voltaje de los nodos que se solicito en el procedimiento
 gracias al analisis de nodos se comprendio de mejor manera como influye en el circuito.
