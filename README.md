@@ -29,7 +29,7 @@
 .Se ha logrado conlcuir que mediante la simulacion de corriente se pudo obtener el voltaje de los nodos que se solicito en el procedimiento
 gracias al analisis de nodos se comprendio de mejor manera como influye en el circuito.
 
-.Se pudo observar que en el calculo de error no hubo errores en cada voltaje de los nodos medidos.
+.Se pudo observar que en el calculo de error no hubo errores de porcentaje en cada voltaje de los nodos medidos.
 
 # 7.BIBLIOGRAFIA
 
