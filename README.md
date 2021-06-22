@@ -8,12 +8,10 @@
 .Vanessa Cayambe
 
 # 1.OBJETIVOS
-
-
-
+.Analizar y comprender como en el circuito se puede aplicar el analisis de nodos
+.Calcular los voltajes requeridos en cada circuito aplicando el analisis de nodos
 # 2.MARCO TEORICO
 
-![image](https://user-images.githubusercontent.com/84421020/122846052-a9dd2000-d2ca-11eb-8c73-7a07f31bcc23.png)
 
 # 3.EXPLICACION DE PROCEDIMIENTO 
 ![](https://github.com/Kevinsan21/imagenes-666/blob/main/Informe_circuitos_4_1.jpg)
