@@ -9,6 +9,8 @@
 
 # 1.OBJETIVOS
 .Analizar y comprender como en el circuito se puede aplicar el analisis de nodos
+
+
 .Calcular los voltajes requeridos en cada circuito aplicando el analisis de nodos
 # 2.MARCO TEORICO
 
